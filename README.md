@@ -1,4 +1,4 @@
-# STARTER-jpa02-dev-anj
+# jpa02-dev-anj
 
 Repo: https://github.com/ucsb-cs156-s26/jpa02-dev-anj
 
